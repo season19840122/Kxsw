@@ -1,0 +1,170 @@
+[
+    {
+        "key": "C6CB415FD3E8D66C8A9335B1062F2240",
+        "name": "秒播资源",
+        "api": "http://caiji.mb77.vip/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "E01C45766DD2184C7B909E467AA094E9",
+        "name": "OK 资源网",
+        "api": "http://cj.okzy.tv/inc/api.php",
+        "download": "http://cj.okzy.tv/inc/apidown.php",
+        "parseApi": ""
+    },
+    {
+        "key": "DAF5C5B7583A010F7AD7765E2B6A39FD",
+        "name": "最大资源网",
+        "api": "http://www.zdziyuan.com/inc/api.php",
+        "download": "http://www.zdziyuan.com/inc/apidown.php",
+        "parseApi": ""
+    },
+    {
+        "key": "161242C74C4FC16ACB4F293EEB16BF10",
+        "name": "酷云资源",
+        "api": "http://caiji.kuyun98.com/inc/ldg_api.php",
+        "download": "http://caiji.kuyun98.com/inc/apidown.php",
+        "parseApi": ""
+    },
+    {
+        "key": "5C1C5A70F42B3F83D8C844FC22660FED",
+        "name": "速播资源站",
+        "api": "https://www.subo988.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "6A64B76FB5F5CF21D7E39F4974FFC2E2",
+        "name": "209 资源",
+        "api": "http://cj.1156zy.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "219FC76F0822C5AB3BDF105A96C794DD",
+        "name": "最新资源",
+        "api": "http://api.zuixinapi.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "347C29F80BF2D6D058B1628460BACB74",
+        "name": "酷播资源",
+        "api": "http://api.kbzyapi.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "3251DC8F458BB68BECCCF349722E4B30",
+        "name": "永久资源",
+        "api": "http://cj.yongjiuzyw.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "9D71B68F4562725918AC428721B43BAA",
+        "name": "123 资源",
+        "api": "http://cj.123ku2.com:12315/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "21BE6A2E950DD9146E98E67E7777435D",
+        "name": "88 影视资源站",
+        "api": "http://www.88zyw.net/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "BB72C125E69627D9AC81F25CD53F6808",
+        "name": "麻花资源",
+        "api": "https://www.mhapi123.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "BEA6EDB2074CDDF0F4B8EF67AFB2F021",
+        "name": "人人资源",
+        "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "C6BA5BC25ED0BAD147715355025D8F67",
+        "name": "1886 资源",
+        "api": "https://cj.1886zy.co//inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "15474BD2670DE9B9259CF7395C62BDCF",
+        "name": "佳丽 TV",
+        "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "8D31C1FC6E6BE5927EB592B4C428ECA7",
+        "name": "环亚资源",
+        "api": "http://wmcj8.com/inc/sapi.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "0C01929E5C92175A19E8FBE46F7D0FFE",
+        "name": "辣椒资源",
+        "api": "http://api.11bat.com/mac10.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "1C991DEC30FF06785F7D498F59F4BFA8",
+        "name": "大地资源",
+        "api": "https://dadiapi.com/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "962B58EDB173919DA7D8400757400F56",
+        "name": "IXX 资源",
+        "api": "http://api.iixxzyapi.com/inc/api.php",
+        "download": "http://api.iixxzyapi.com/inc/apidown.php",
+        "parseApi": ""
+    },
+    {
+        "key": "67120EA1C3612160E08AB8D710A82F11",
+        "name": "快活资源站",
+        "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "46B1DA02D7B5ABCD47A04737FBF20FF9",
+        "name": "76特殊.色色",
+        "api": "http://m.7777688.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "C08BDD258CF7469EBAD61D2BCB2A0F23",
+        "name": "78特殊.乐播",
+        "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "95C8BC60EB6BAA4EE52B109C33610E98",
+        "name": "84特殊.鲨鱼资源",
+        "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "key": "824FC7A700BC12B21B50F3084D6D6B24",
+        "name": "96特殊.av88资源",
+        "api": "http://m.7777688.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    }
+]
